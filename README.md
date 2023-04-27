@@ -1,4 +1,6 @@
+<div align="center">
 ![自学气象人](https://github.com/xiazh18/Python-Pytorch-NWP-Meteorology/blob/dd38ff462dda1c3e5e78dc8e0fc9cb69757cae43/images/qrcode_for_gh_1bdec5df19a3_258.jpg)
+</div>
 
 Open codes, better sciences. 专注分享Python、人工智能、数值模式、科研利器、Fortran、C++等技术，探讨气象前沿。欢迎大家关注！
 
